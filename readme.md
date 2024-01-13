@@ -1,6 +1,6 @@
 <p align="center">
     <picture align="center">
-        <img width="180" height="104" src="who-im-i.svg">
+        <img width="180" height="104" src="who-im-i -light.svg">
     </picture><h3 align="center">Notcoin autoclicker</h3>
 </p>
 <p align="center">
