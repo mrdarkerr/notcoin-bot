@@ -34,4 +34,3 @@ The script should automatically open bot and reload it if needed. If something b
 
 ### Script
 
-You can find it [here in index.js](https://github.com/dapie/notcoin-bot/blob/main/index.js)
